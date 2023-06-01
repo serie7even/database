@@ -1,28 +1,4 @@
 {
   "apps": [
-    {
-      "url": "com.superking.parchisi.star",
-      "logo": "FalMYf9",
-      "name": "القليل من ضوء النهار \n (الموسم الثاني)",
-      "id": 1
-    },
-    {
-      "url": "com.whatsapp",
-      "logo": "310Atdp",
-      "name": "المؤسس عثمان",
-      "id": 2
-    },
-    {
-      "url": "com.kiloo.subwaysurf",
-      "logo": "ifmircr",
-      "name": "لتأتي الحياة كما تشاء",
-      "id": 3
-    },
-    {
-      "url": "com.kiloo.subwaysurf",
-      "logo": "63BOOxY",
-      "name": "معجزة القرن",
-      "id": 4
-    }
   ]
 }
